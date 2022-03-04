@@ -1,4 +1,3 @@
-
 output "public_key" {
   value = zerotier_identity.this.public_key
 }
